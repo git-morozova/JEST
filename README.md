@@ -1,2 +1,7 @@
-# learn-js
-js examples for fast learning
+# jest: unit-тесты
+
+Несколько тестовых тестов на jest
+
+### Как запустить
+
+Скачать репозиторий, в консоли прописать "npm test". Требуется "node_modules"
