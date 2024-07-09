@@ -1,6 +1,6 @@
 import { definePrime } from "../../utils/definePrime.js";
 
-xdescribe("tests for definePrime function", () => {
+describe("tests for definePrime function", () => {
   const simple = 17;
   const complex = 18;
 

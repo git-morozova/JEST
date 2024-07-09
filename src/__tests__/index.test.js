@@ -1,6 +1,6 @@
 import { multiply } from "../index.js";
 
-xdescribe("test multiply", () => {
+describe("test multiply", () => {
   it("multiply 1 * 0 to equal 0", () => {
     const result = multiply(1, 0);
     expect(result).toBe(0);
